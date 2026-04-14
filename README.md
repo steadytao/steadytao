@@ -2,7 +2,7 @@
 
 # Zen Dodd
 
-Security, infrastructure, systems, and open-source software
+Caddy maintainer, security researcher and infrastructure-focused builder
 
 [Website](https://steadytao.com) • [Articles](https://steadytao.com/writing) • [Contact](https://steadytao.com/contact)
 
