@@ -18,6 +18,7 @@ Caddy maintainer, security researcher and infrastructure-focused builder
 - **[steadytao-com](https://github.com/steadytao/steadytao-com)**, source code for my website
 - **[caddy](https://github.com/caddyserver/caddy/issues?q=is%3Apr%20author%3A%40steadytao)**, maintainer and contributor
 - **[RFC Reasoning](https://steadytao.com/writing/rfc-compliance-isnt-an-implementation-strategy/)**, an article about RFCs and their implementation
+- **[CVE-2026-33825](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-33825)**, CVSS 7.8 zero-day in MS Defender
 
 ## Notes
 I prefer precise, practical work over filler and I am especially interested in security, infrastructure, privacy, reliability, and real-world systems.
