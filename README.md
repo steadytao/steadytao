@@ -1,17 +1,16 @@
 <div align="center">
 
-# Zen Dodd
+# Zen Dodd - (Tao)
 
-Caddy maintainer, security researcher and infrastructure-focused builder
+FOSS Maintainer, Security Researcher and Infrastructure-focused Engineer. 
 
 [Website](https://steadytao.com) • [Articles](https://steadytao.com/writing) • [Contact](https://steadytao.com/contact)
 
 </div>
 
 ## About Me
-- Focused on security, infrastructure, systems, and open-source software
+- Focused on security, infrastructure, systems and open-source software
 - Building public technical work that stands up to scrutiny
-- Open to meaningful work on serious repositories and projects
 
 ## Selected Work
 ### Personal Projects
