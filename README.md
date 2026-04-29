@@ -17,7 +17,7 @@ FOSS Maintainer, Security Researcher and Infrastructure-focused Engineer.
 - **[surveyor](https://github.com/steadytao/surveyor)**, post-quantum readiness and cryptographic inventory tool for infrastructure, software and services 
 - **[steadytao-com](https://github.com/steadytao/steadytao-com)**, source code for my website
 ### Maintainer / Active Contributor
-- **[caddy](https://github.com/caddyserver/caddy/issues?q=is%3Apr%20author%3A%40steadytao)**, maintainer and contributor
+- **[caddyserver](https://github.com/caddyserver)**, maintainer and contributor *[[caddy](https://github.com/caddyserver/caddy/issues?q=is%3Apr%20author%3A%40steadytao)]*
 ### Articles and Vulnerabilities
 - **[CVE-2026-33825](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-33825)**, CVSS 7.8 zero-day in MS Defender [ARTICLE](https://steadytao.com/writing/cve-2026-33825/)
 - **[RFC Reasoning](https://steadytao.com/writing/rfc-compliance-isnt-an-implementation-strategy/)**, an article about RFCs and their implementation
