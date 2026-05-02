@@ -14,6 +14,7 @@ FOSS Maintainer, Security Researcher and Infrastructure-focused Engineer.
 
 ## Highlighted Work
 ### Personal Projects
+- **[waystone](https://github.com/steadytao/waystone)**, local CLI for exporting and managing portable project history for Git repositories
 - **[surveyor](https://github.com/steadytao/surveyor)**, post-quantum readiness and cryptographic inventory tool for infrastructure, software and services 
 - **[steadytao-com](https://github.com/steadytao/steadytao-com)**, source code for my website
 ### Maintainer / Active Contributor
